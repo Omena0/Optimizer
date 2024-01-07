@@ -3,3 +3,8 @@ Optimizer-15.4
 main
 java
 javaw
+Taskmgr
+LaunchTM
+ctfmon
+WmiPrvSE
+MinecraftLauncher

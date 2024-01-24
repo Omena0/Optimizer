@@ -8,3 +8,6 @@ LaunchTM
 ctfmon
 WmiPrvSE
 MinecraftLauncher
+Discord
+discord
+conhost

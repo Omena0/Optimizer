@@ -11,3 +11,7 @@ MinecraftLauncher
 Discord
 discord
 conhost
+py
+python
+py.exe
+python.exe
